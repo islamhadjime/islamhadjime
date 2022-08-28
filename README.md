@@ -14,6 +14,7 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/vkontakte-yellow?style=for-the-badge&logo=vkontakte&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=your-github-islamhadjime&style=flat-square&color=blue" alt=""/>
 </div>
 
 
