@@ -29,10 +29,9 @@
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
-https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![GMAIL]([https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]
+- :mailbox:How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white)]
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
