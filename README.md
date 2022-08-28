@@ -6,7 +6,7 @@
 
 <div id="badges" aling="center">
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
+    <img aling="center" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
