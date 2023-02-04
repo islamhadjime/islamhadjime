@@ -27,7 +27,7 @@
 - :Я работаю инженером-программистом и участвую в создании внешнего и внутреннего интерфейса для создания веб-приложений..
 - :zap: В свободное время решаю задачи на GeeksforGeeks и читаю технические статьи..
 
-- :mailbox:How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white)]
+- :mailbox:Как связаться со мной: [![Gmail](https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white)]
 ---
 ### :hammer_and_wrench: Языки и инструменты :
 <div>
