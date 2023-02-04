@@ -9,16 +9,14 @@
     <img  src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/vkontakte-yellow?style=for-the-badge&logo=vkontakte&logoColor=white" alt="Twitter Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=your-github-islamhadjime&style=flat-square&color=blue" alt=""/>
 </div>
 
 
-  hey there
+  
+Привет!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -26,14 +24,12 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :Я работаю инженером-программистом и участвую в создании внешнего и внутреннего интерфейса для создания веб-приложений..
+- :zap: В свободное время решаю задачи на GeeksforGeeks и читаю технические статьи..
 
 - :mailbox:How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white)]
 ---
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Языки и инструменты :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -50,7 +46,7 @@
 
 ---
 
-### :fire: My Stats :
+### :fire: Моя статистика :
 
 [[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=islamhadjime&theme=dark&hide_border=true)](https://git.io/streak-stats)]
 
