@@ -1,7 +1,6 @@
 
 <div align="center">
 
-  # Hi, I'm Islam 👋
 
   ### Middle Fullstack Developer | React · Next.js · Node.js · Python
 
@@ -26,7 +25,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I'm a Fullstack Developer focused on building complete digital products — from user interfaces and application architecture to backend systems, databases and deployment.
 
@@ -40,7 +39,7 @@ I'm a Fullstack Developer focused on building complete digital products — from
 
 ---
 
-### 🚀 Featured Project
+### Featured Project
 
 <div align="center">
   <a href="https://www.mashar.ru/">
@@ -66,7 +65,7 @@ An ambitious digital platform designed to connect buyers, sellers and local busi
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Frontend**
 
@@ -96,7 +95,7 @@ An ambitious digital platform designed to connect buyers, sellers and local busi
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 
 <div align="center">
 
@@ -112,7 +111,7 @@ An ambitious digital platform designed to connect buyers, sellers and local busi
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 
 I'm open to interesting projects, collaboration and new professional opportunities.
 
@@ -125,4 +124,4 @@ I'm open to interesting projects, collaboration and new professional opportuniti
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=islamhadjime&style=flat-square&color=005bff&label=Profile+Views" alt="Profile Views" />
 </div>
-```
+
