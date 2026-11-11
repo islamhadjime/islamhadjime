@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
 
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" alt="Coding animation" />
@@ -127,4 +127,4 @@ I'm open to interesting projects, collaboration and new professional opportuniti
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=islamhadjime&style=flat-square&color=005bff&label=Profile+Views" alt="Profile Views" />
 </div>
-```
+
