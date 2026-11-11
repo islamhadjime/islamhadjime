@@ -1,10 +1,6 @@
 
 
-
-
----
-
-###  Tech Stack
+### 🛠️ Tech Stack
 
 **Frontend**
 <p>
@@ -23,48 +19,41 @@
 
 **Mobile Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=react" alt="React" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" alt="Expo" />
 </p>
 
 ---
 
-###  GitHub Activity
+### 📊 GitHub Activity
 
 <div align="center">
-
   <img width="49%" src="https://streak-stats.demolab.com?user=islamhadjime&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=islamhadjime&theme=github_dark" alt="GitHub Profile Summary" />
-
 </div>
 
 ---
 
 ### 📫 Let's Connect
 
-I'm open to interesting projects, collaboration and new professional opportunities.
-
-<p align="center">
-  <p>
-    <a href="mailto:islam.hadjime@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://t.me/history_none">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-    </a>
-    <a href="https://portfolio-version.vercel.app">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://github.com/islamhadjime">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
-</p>
+I'm open to interesting projects, collaboration, and new professional opportunities.
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=islamhadjime&label=PROFILE+VIEWS&color=005bff&style=for-the-badge" alt="Profile Views" />
-  
+  <a href="mailto:islam.hadjime@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://t.me/history_none">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://portfolio-version.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/islamhadjime">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
-![Profile Views](https://hit.yhype.me/github/profile?account_id=57444044)
+
+<div align="center">
+  <img src="https://hit.yhype.me/github/profile?account_id=57444044" alt="GitHub Profile Views" />
+</div>
+
