@@ -66,4 +66,4 @@ I'm open to interesting projects, collaboration and new professional opportuniti
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=islamhadjime&style=flat-square&color=005bff&label=Profile+Views" alt="Profile Views" />
 </div>
-```
+
