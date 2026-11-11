@@ -65,5 +65,6 @@ I'm open to interesting projects, collaboration and new professional opportuniti
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=islamhadjime&label=PROFILE+VIEWS&color=005bff&style=for-the-badge" alt="Profile Views" />
+  
 </div>
-
+![Profile Views](https://hit.yhype.me/github/profile?account_id=57444044)
