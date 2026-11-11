@@ -1,7 +1,10 @@
 
-<div align="center">
 
-### Tech Stack
+
+
+---
+
+### 🛠️ Tech Stack
 
 **Frontend**
 
@@ -31,9 +34,12 @@
 
 ---
 
-### GitHub Activity
+### 📊 GitHub Activity
 
 <div align="center">
+
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=islamhadjime&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
+
   <br/>
 
   <img width="49%" src="https://streak-stats.demolab.com?user=islamhadjime&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
@@ -44,12 +50,12 @@
 
 ---
 
-###  Let's Connect
+### 📫 Let's Connect
 
 I'm open to interesting projects, collaboration and new professional opportunities.
 
 <p align="center">
-   <p>
+  <p>
     <a href="mailto:islam.hadjime@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
@@ -68,4 +74,4 @@ I'm open to interesting projects, collaboration and new professional opportuniti
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=islamhadjime&style=flat-square&color=005bff&label=Profile+Views" alt="Profile Views" />
 </div>
-
+```
