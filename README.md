@@ -10,7 +10,6 @@
   <a href="mailto:ТВОЯ_ПОЧТА@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <!-- Сюда можешь добавить LinkedIn или Telegram, если есть -->
 </p>
 
 ---
@@ -42,21 +41,10 @@
 
 ---
 
-### 📊 Статистика и активность
+### 📊 Статистика
 
+<!-- ВАЖНО: Эта карточка появится только после настройки GitHub Action (см. инструкцию ниже) -->
+<!-- Пока просто оставь этот блок, но не удивляйся, если картинка не грузится сразу -->
 <div align="center">
-  <!-- Карточка с основными языками (без "стрика", чтобы не показывать 0) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamhadjime&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
-  
-  <!-- Карточка с общей статистикой (показывает коммиты, PR, issues) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=islamhadjime&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Трофеи GitHub (отлично отвлекает внимание от графика) -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=islamhadjime&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&row=1&column=6" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=islamhadjime&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
 </div>
