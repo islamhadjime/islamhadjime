@@ -4,28 +4,24 @@
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Frontend**
-
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,zustand,tailwind,html,css" alt="Frontend technologies" />
 </p>
 
 **Backend**
-
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi" alt="Backend technologies" />
 </p>
 
 **Database & Infrastructure**
-
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,docker,git,github,linux,nginx" alt="Database and infrastructure technologies" />
 </p>
 
 **Mobile Development**
-
 <p>
   <img src="https://skillicons.dev/icons?i=react" alt="React" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native" />
@@ -34,13 +30,9 @@
 
 ---
 
-### 📊 GitHub Activity
+###  GitHub Activity
 
 <div align="center">
-
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=islamhadjime&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
-
-  <br/>
 
   <img width="49%" src="https://streak-stats.demolab.com?user=islamhadjime&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
